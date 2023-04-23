@@ -9,3 +9,12 @@ The python libraries listed below were utilized for this project:
 + Seaborn
 - Matplotlib
 * Scipy
+# Skills applied
+- Data Wrangling & Subsetting
+* Data Consistency Checks
++ Deriving new variables
+- Grouping & Aggregating Data
+* Data Visualization with Python
++ Coding Etiquette & Excel Reporting
+
+
